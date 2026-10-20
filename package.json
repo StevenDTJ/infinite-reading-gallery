@@ -1,0 +1,21 @@
+{
+  "name": "infinite-reading-gallery",
+  "version": "1.0.0",
+  "private": false,
+  "license": "MIT",
+  "description": "An infinite EPUB gallery and double-page reader plugin for Obsidian.",
+  "scripts": {
+    "build": "node esbuild.config.mjs",
+    "check": "node --check main.js"
+  },
+  "dependencies": {
+    "epubjs": "^0.3.93",
+    "pako": "^1.0.11"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.0"
+  },
+  "overrides": {
+    "@xmldom/xmldom": "^0.8.10"
+  }
+}

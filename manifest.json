@@ -1,0 +1,9 @@
+{
+  "id": "infinite-reading-gallery",
+  "name": "无限书场",
+  "version": "1.0.0",
+  "minAppVersion": "1.8.0",
+  "description": "在 Obsidian 中整理、浏览并双页阅读 EPUB 的无限画布书场。",
+  "author": "StevenDTJ",
+  "isDesktopOnly": false
+}
