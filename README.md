@@ -13,7 +13,7 @@
 
 ## 安装
 
-1. 从 GitHub Releases 下载插件包，解压到 vault 的 `.obsidian/plugins/infinite-reading-gallery/`。
+1. 在 GitHub 仓库点击 **Code → Download ZIP** 并解压，将解压出的文件夹重命名为 `infinite-reading-gallery`，再放入 vault 的 `.obsidian/plugins/` 目录。确认 `manifest.json`、`main.js` 和 `styles.css` 位于该插件文件夹根目录。
 2. 在 Obsidian 设置的“第三方插件”中启用“无限书场”。
 3. 点击左侧书本图标，或运行命令“打开无限书场”。
 
